@@ -1,0 +1,7 @@
+tunnels:
+  web:
+    addr: 8080
+    proto: http
+  api:
+    addr: 5000
+    proto: http
